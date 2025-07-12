@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubayer27&label=Profile%20views&color=0e75b6&style=flat" alt="jubayer27" /> </p>
 
-- 🔭 I’m currently working on [E-Commerce Sore](7mastergaming.com)
+- 🔭 I’m currently working on [E-Commerce Store](7mastergaming.com)
 
 - 🌱 I’m currently learning **React JS**
 
@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jubayer27&show_icons=true&locale=en" alt="jubayer27" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jubayer27&" alt="jubayer27" /></p>
+
