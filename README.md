@@ -8,7 +8,7 @@
 
   <p align="center">
     <a href="https://linkedin.com/in/jubayer-islam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:islam.md@graduate.utm.my"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:jubayerofficial27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://7mastergaming.com"><img src="https://img.shields.io/badge/Portfolio-Live_Project-2ea44f?style=for-the-badge" /></a>
   </p>
 </div>
@@ -19,10 +19,10 @@
 
 I am a **Software Engineering Student** passionate about bridging the gap between intelligent systems and modern web interfaces. My focus lies in **Full Stack Development** and **Machine Learning**.
 
-- 🔭 **Current Project:** Building a robust E-Commerce platform at [7mastergaming.com](https://7mastergaming.com)
+- 🔭 **Current Project:** Building SAAS Money Claim App
 - 🧠 **Deep Diving:** Neural Networks with **PyTorch** & Advanced **Python**
 - 💼 **Open for:** Full Stack or AI/ML Internships
-- ⚡ **Fun fact:** You can hire me for a cookie 🍪
+- ⚡ **Fun fact:** You can't hire me for a cookie 🍪
 
 ---
 
@@ -35,7 +35,7 @@ I am a **Software Engineering Student** passionate about bridging the gap betwee
 | **Artificial Intelligence** | <img src="https://skillicons.dev/icons?i=python,pytorch,scikitlearn" /> |
 | **Frontend Development** | <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" /> |
 | **Backend & Database** | <img src="https://skillicons.dev/icons?i=php,nodejs,mysql,firebase" /> |
-| **Tools & Systems** | <img src="https://skillicons.dev/icons?i=git,github,vscode,cpp" /> |
+| **Tools & Systems** | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> |
 
 </div>
 
