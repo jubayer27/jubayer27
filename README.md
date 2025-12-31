@@ -54,10 +54,13 @@ I am a **Software Engineer** and **Founder** passionate about bridging the gap b
 ### 📊 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jubayer27&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA44F&icon_color=2EA44F" alt="jubayer27" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jubayer27&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA44F" alt="jubayer27" height="150" />
-</div>
-<br />
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubayer27&theme=tokyonight&hide_border=true&bg_color=0D1117&ring=2EA44F&currStreakLabel=2EA44F" alt="jubayer27" />
+
+[![Jubayer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jubayer27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA44F&icon_color=2EA44F)](https://github.com/jubayer27)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jubayer27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA44F)](https://github.com/jubayer27)
+
+<br/>
+
+[![GitHub Streak](https://readme-streak-stats.demolab.com?user=jubayer27&theme=tokyonight&hide_border=true&bg_color=0D1117&ring=2EA44F&currStreakLabel=2EA44F)](https://github.com/jubayer27)
+
 </div>
