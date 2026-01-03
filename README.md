@@ -17,11 +17,11 @@
 
 ### 👨‍💻 Professional Summary
 
-I am a **Software Engineer** and **Founder** passionate about bridging the gap between intelligent systems and modern web interfaces. Currently scaling my startup **UniApply.online** while developing enterprise-grade solutions for HR and E-commerce.
+I am a **Software Engineer** and **Founder** passionate about bridging the gap between intelligent systems and modern web interfaces. Currently scaling my startup **UniApply Online** while developing enterprise-grade solutions for HR and E-commerce.
 
 - 🔭 **Current Focus:** Scaling **[UniApply.online](https://uniapply.online)** & AI Thesis Repositories
 - 🧠 **Deep Diving:** Neural Networks with **PyTorch**, **NLP (BERT)**, and System Design
-- 💼 **Open for:** Software Engineering Internships (FAANG/MNCs)
+- 💼 **Open for:** Software Engineering Internships
 - ⚡ **Fun fact:** I automated my own attendance system with QR codes because I hate manual sign-ins.
 
 ---
@@ -33,9 +33,9 @@ I am a **Software Engineer** and **Founder** passionate about bridging the gap b
 | **Core Domain** | **Tech Stack** |
 | :---: | :---: |
 | **Languages** | <img src="https://skillicons.dev/icons?i=python,cpp,php,js" /> |
-| **Artificial Intelligence** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv" /> |
+| **Artificial Intelligence** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" /> |
 | **Full Stack** | <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,tailwind,bootstrap" /> |
-| **Infrastructure** | <img src="https://skillicons.dev/icons?i=mysql,firebase,docker,linux,git,github" /> |
+| **Infrastructure** | <img src="https://skillicons.dev/icons?i=mysql,firebase,docker,git,github" /> |
 
 </div>
 
