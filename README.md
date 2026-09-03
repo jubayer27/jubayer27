@@ -3,7 +3,7 @@
   <h3>Founder @ UniApply | Software Engineer | AI Enthusiast</h3>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=2EA44F&center=true&vCenter=true&width=500&lines=Building+UniApply.online;Architecting+Scalable+SaaS;Training+AI+Models+with+PyTorch;Crafting+Code+in+PHP+%26+React" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=2EA44F&center=true&vCenter=true&width=500&lines=Founder+of+UniApply+online;Building+Community+Platform;Architecting+Scalable+SaaS;Training+AI+Models+with+PyTorch;Crafting+Code+in+PHP+%26+React" alt="Typing SVG" />
   </a>
 
   <p align="center">
